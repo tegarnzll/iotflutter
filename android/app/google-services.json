@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "40511324549",
+    "firebase_url": "https://iotflutter-e84b6-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "project_id": "iotflutter-e84b6",
+    "storage_bucket": "iotflutter-e84b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40511324549:android:e8a8bd4ad208e6fb1484ec",
+        "android_client_info": {
+          "package_name": "com.example.iotflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40511324549-aiq1cac3eqeudk9upjdm1c12hbbm36sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXC1RoUtV2ezIeaYR_EkjD8gB7MARrDHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40511324549-aiq1cac3eqeudk9upjdm1c12hbbm36sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
